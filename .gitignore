@@ -32,7 +32,8 @@ bin/
 .idea
 
 ## .iml ##
-.iml
+*.iml
+
 
 
 
